@@ -1,2 +1,2 @@
 # SampleRepository
-THanks for writing
+THanks for writing Web hook
